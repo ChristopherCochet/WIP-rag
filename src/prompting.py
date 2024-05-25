@@ -430,15 +430,15 @@ if __name__ == "__main__":
     # for i, models in enumerate(llm_local_models):
     #     print("models: ", i, models["model_name"], models["model_family"])
 
-    model_name = "microsoft/Phi-3-mini-4k-instruct"
+    model_name = "phi-3-gguf"
     print(f"\n > Loading Model: {model_name}...")
     #   second, use the gguf version
     phi3_gguf = ModelCatalog().load_model(model_name)
 
-    prompt = "I am going to Mumbai.  What should I see?"
-    print(f"\n > Prompting model: {model_name} with {prompt}")
-    response = phi3_gguf.inference(prompt)
-    print("\ngguf response: ", response)
+    # prompt = "I am going to Mumbai.  What should I see?"
+    # print(f"\n > Prompting model: {model_name} with {prompt}")
+    # response = phi3_gguf.inference(prompt)
+    # print("\ngguf response: ", response)
 
     prompt = "What is the current stock price?"
     print(f"\n > Prompting model: {model_name} with {prompt}")

@@ -1,4 +1,5 @@
 # linkedin_saved_items
+- https://www.linkedin.com/my-items/saved-posts/
 
 # commands
 ```pip3 install llmware```
