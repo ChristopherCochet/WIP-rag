@@ -14,3 +14,4 @@
 - https://learn.deeplearning.ai/courses/getting-started-with-mistral
 - https://github.com/langchain-ai/rag-from-scratch
 - https://github.com/elastic/genai-workshop-codespaces/blob/90min/notebooks/90_minute_Workhop.ipynb
+- https://nvidia.github.io/GenerativeAIExamples/latest/
