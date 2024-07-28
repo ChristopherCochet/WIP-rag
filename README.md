@@ -1,7 +1,6 @@
 # RAG using haystack
 
 ## commands
-```pip3 install llmware```
 ```pip install haystack-ai```
 ```pip install mistral-haystack```
 
@@ -14,3 +13,4 @@
 - https://github.com/deepset-ai/haystack-core-integrations/tree/main/integrations/mistral
 - https://learn.deeplearning.ai/courses/getting-started-with-mistral
 - https://github.com/langchain-ai/rag-from-scratch
+- https://github.com/elastic/genai-workshop-codespaces/blob/90min/notebooks/90_minute_Workhop.ipynb
