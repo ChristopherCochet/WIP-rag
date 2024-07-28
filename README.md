@@ -1,12 +1,11 @@
-# linkedin_saved_items
-- https://www.linkedin.com/my-items/saved-posts/
+# RAG using haystack
 
-# commands
+## commands
 ```pip3 install llmware```
 ```pip install haystack-ai```
 ```pip install mistral-haystack```
 
-# resources
+## resources
 - https://github.com/llmware-ai/llmware/tree/main/fast_start
 - https://github.com/llmware-ai/llmware/blob/main/examples/Models/using-microsoft-phi-3.py
 - https://github.com/deepset-ai/haystack
