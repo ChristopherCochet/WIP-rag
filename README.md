@@ -16,3 +16,5 @@
 - https://github.com/elastic/genai-workshop-codespaces/blob/90min/notebooks/90_minute_Workhop.ipynb
 - https://nvidia.github.io/GenerativeAIExamples/latest/
 - https://github.com/decodingml/llm-twin-course?utm_source=substack&utm_medium=email
+- lightrag Tutorials: https://lightrag.sylph.ai/tutorials/generator.html
+- lightrag repo: https://github.com/liyin2015/LightRAG
